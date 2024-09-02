@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "brILois2sQaNtXwVW+HxI7EyeUviEEpdfCrI+lrcAcGANqh+TOWGBsHY4x/+zjn6ivpj0UE/xFtAZOrZqipiXA==",
+  "dgSpecHash": "0lqxV3rRfJ5X42uYsCTVgETw9wg5yxA8kiSyp/AciyCIwi1GvSMVV6xcOeEV+IT2SBAvD95wt7g5Vz1yoKgDFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\MovieApp.csproj",
+  "projectFilePath": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\MovieApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hieu.cu_it.weltec\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\hieu.cu_it.weltec\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

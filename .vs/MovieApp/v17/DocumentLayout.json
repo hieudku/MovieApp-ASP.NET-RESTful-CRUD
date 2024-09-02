@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\",
+  "WorkspaceRootPath": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6603F236-53A9-439C-BFCE-660C6EA32D76}|MovieApp.csproj|c:\\users\\hieu.cu_it.weltec\\source\\repos\\movieapp-asp.net-crud\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Migrations\\20240902222358_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240902222358_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6603F236-53A9-439C-BFCE-660C6EA32D76}|MovieApp.csproj|c:\\users\\hieu.cu_it.weltec\\source\\repos\\movieapp\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6603F236-53A9-439C-BFCE-660C6EA32D76}|MovieApp.csproj|solutionrelative:views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6603F236-53A9-439C-BFCE-660C6EA32D76}|MovieApp.csproj|c:\\users\\hieu.cu_it.weltec\\source\\repos\\movieapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6603F236-53A9-439C-BFCE-660C6EA32D76}|MovieApp.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6603F236-53A9-439C-BFCE-660C6EA32D76}|MovieApp.csproj|c:\\users\\hieu.cu_it.weltec\\source\\repos\\movieapp-asp.net-crud\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6603F236-53A9-439C-BFCE-660C6EA32D76}|MovieApp.csproj|c:\\users\\hieu.cu_it.weltec\\source\\repos\\movieapp\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6603F236-53A9-439C-BFCE-660C6EA32D76}|MovieApp.csproj|solutionrelative:models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,28 +35,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20240902222358_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Migrations\\20240902222358_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240902222358_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Migrations\\20240902222358_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240902222358_InitialCreate.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T22:23:58.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Views\\Movies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Views\\Movies\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T22:20:10.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\Controllers\\MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "Controllers\\MoviesController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T22:11:38.55Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Movies.cs",
-              "DocumentMoniker": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\Models\\Movies.cs",
+              "DocumentMoniker": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Models\\Movies.cs",
               "RelativeDocumentMoniker": "Models\\Movies.cs",
-              "ToolTip": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\Models\\Movies.cs",
+              "ToolTip": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Models\\Movies.cs",
               "RelativeToolTip": "Models\\Movies.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T22:02:29.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T22:02:29.835Z"
             }
           ]
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\MovieApp.csproj": {}
+    "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\MovieApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\MovieApp.csproj": {
+    "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\MovieApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\MovieApp.csproj",
+        "projectUniqueName": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\MovieApp.csproj",
         "projectName": "MovieApp",
-        "projectPath": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\MovieApp.csproj",
+        "projectPath": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\MovieApp.csproj",
         "packagesPath": "C:\\Users\\hieu.cu_it.weltec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\obj\\",
+        "outputPath": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
