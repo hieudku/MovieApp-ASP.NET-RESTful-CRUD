@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\",
+  "WorkspaceRootPath": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6603F236-53A9-439C-BFCE-660C6EA32D76}|MovieApp.csproj|c:\\users\\hieu.cu_it.weltec\\source\\repos\\movieapp\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6603F236-53A9-439C-BFCE-660C6EA32D76}|MovieApp.csproj|c:\\users\\hieu.cu_it.weltec\\source\\repos\\movieapp-asp.net-crud\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6603F236-53A9-439C-BFCE-660C6EA32D76}|MovieApp.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6603F236-53A9-439C-BFCE-660C6EA32D76}|MovieApp.csproj|c:\\users\\hieu.cu_it.weltec\\source\\repos\\movieapp-asp.net-crud\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6603F236-53A9-439C-BFCE-660C6EA32D76}|MovieApp.csproj|solutionrelative:models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T22:11:38.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Movies.cs",
-              "DocumentMoniker": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Models\\Movies.cs",
+              "DocumentMoniker": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\Models\\Movies.cs",
               "RelativeDocumentMoniker": "Models\\Movies.cs",
-              "ToolTip": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Models\\Movies.cs",
+              "ToolTip": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\Models\\Movies.cs",
               "RelativeToolTip": "Models\\Movies.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T22:02:29.835Z",
               "EditorCaption": ""

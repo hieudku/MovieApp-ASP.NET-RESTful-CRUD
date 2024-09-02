@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\MovieApp.csproj": {}
+    "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\MovieApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\MovieApp.csproj": {
+    "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\MovieApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\MovieApp.csproj",
+        "projectUniqueName": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\MovieApp.csproj",
         "projectName": "MovieApp",
-        "projectPath": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\MovieApp.csproj",
+        "projectPath": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\MovieApp.csproj",
         "packagesPath": "C:\\Users\\hieu.cu_it.weltec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\obj\\",
+        "outputPath": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp-ASP.NET-CRUD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -47,6 +47,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
