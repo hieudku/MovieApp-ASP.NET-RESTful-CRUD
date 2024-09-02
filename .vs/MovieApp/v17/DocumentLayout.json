@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6603F236-53A9-439C-BFCE-660C6EA32D76}|MovieApp.csproj|c:\\users\\hieu.cu_it.weltec\\source\\repos\\movieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6603F236-53A9-439C-BFCE-660C6EA32D76}|MovieApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6603F236-53A9-439C-BFCE-660C6EA32D76}|MovieApp.csproj|c:\\users\\hieu.cu_it.weltec\\source\\repos\\movieapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6603F236-53A9-439C-BFCE-660C6EA32D76}|MovieApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6603F236-53A9-439C-BFCE-660C6EA32D76}|MovieApp.csproj|c:\\users\\hieu.cu_it.weltec\\source\\repos\\movieapp\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6603F236-53A9-439C-BFCE-660C6EA32D76}|MovieApp.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +46,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T23:05:59.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T23:02:48.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Models\\SeedData.cs",
               "RelativeDocumentMoniker": "Models\\SeedData.cs",
               "ToolTip": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Models\\SeedData.cs",
               "RelativeToolTip": "Models\\SeedData.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwCIAAAAeAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T22:42:19.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "20240902222358_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Migrations\\20240902222358_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20240902222358_InitialCreate.cs",
@@ -59,12 +93,11 @@
               "RelativeToolTip": "Migrations\\20240902222358_InitialCreate.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T22:23:58.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T22:23:58.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Views\\Movies\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Movies\\Delete.cshtml",
@@ -76,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
@@ -88,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Movies.cs",
               "DocumentMoniker": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\Models\\Movies.cs",
               "RelativeDocumentMoniker": "Models\\Movies.cs",
