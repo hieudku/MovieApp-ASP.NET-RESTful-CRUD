@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\MovieApp.csproj": {}
+    "C:\\Users\\hieuc\\source\\repos\\MovieApp-ASP.NET-RESTful-CRUD\\MovieApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\MovieApp.csproj": {
+    "C:\\Users\\hieuc\\source\\repos\\MovieApp-ASP.NET-RESTful-CRUD\\MovieApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\MovieApp.csproj",
+        "projectUniqueName": "C:\\Users\\hieuc\\source\\repos\\MovieApp-ASP.NET-RESTful-CRUD\\MovieApp.csproj",
         "projectName": "MovieApp",
-        "projectPath": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\MovieApp.csproj",
-        "packagesPath": "C:\\Users\\hieu.cu_it.weltec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hieu.cu_it.weltec\\source\\repos\\MovieApp\\obj\\",
+        "projectPath": "C:\\Users\\hieuc\\source\\repos\\MovieApp-ASP.NET-RESTful-CRUD\\MovieApp.csproj",
+        "packagesPath": "C:\\Users\\hieuc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hieuc\\source\\repos\\MovieApp-ASP.NET-RESTful-CRUD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hieu.cu_it.weltec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hieuc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,15 +40,17 @@
           ]
         },
         "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
+          "enableAudit": "default"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.8, )"
@@ -82,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,7 +8,8 @@ builder.Services.AddDbContext<MovieAppContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("MovieAppContext") ?? throw new InvalidOperationException("Connection string 'MovieAppContext' not found.")));
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
+
 
 var app = builder.Build();
 
